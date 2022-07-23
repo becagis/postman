@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "Check health",
 			"id": "04329fe8-885d-4193-b30d-6ed99411be55",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
