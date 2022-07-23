@@ -7,14 +7,14 @@
 	"item": [
 		{
 			"name": "New Request",
-			"_postman_id": "04329fe8-885d-4193-b30d-6ed99411be55",
+			"id": "04329fe8-885d-4193-b30d-6ed99411be55",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": null
+				"url": "https://phimmoichill.net/list/phim-bo/page-3/"
 			},
 			"response": []
 		}
